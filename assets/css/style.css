@@ -1,0 +1,34 @@
+.container {
+    height: 100vh;
+    background-color: #e2e3e5;
+  }
+  
+  th,
+  td {
+    text-align: center;
+  }
+  
+  th:nth-child(2),
+  td:nth-child(2) {
+    text-align: left;
+  }
+  
+  tr {
+    vertical-align: middle;
+  }
+  
+  i {
+    font-size: 1.3rem;
+  }
+  
+  .bi-clipboard-fill {
+      color: #555;
+  }
+  
+  .bi-trash-fill{
+      color: #dc3545;
+  }
+  
+  .bi-clipboard-check-fill{
+      color: #198754;
+  }
